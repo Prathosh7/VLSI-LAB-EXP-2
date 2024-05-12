@@ -4,7 +4,7 @@ AIM:
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
 APPARATUS REQUIRED:
-Xilinx 14.7
+Vivado
 Spartan6 FPGA
 
 **LOGIC DIAGRAM**
@@ -127,8 +127,28 @@ end
 endmodule
 ```
 # OUTPUT WAVEFORM
- <<< PASTE YOUR OUTPUT WAVEFORM >>>
+# Encoder
+![Encoder](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/77f8e9f2-32f3-4f9b-ba74-1c9196739379)
+# Elaborated Design
+![ ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/3586d4f8-bc50-4926-af8d-cd737840df4a)
+# Decoder
+![Decoder](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/17c0edc4-f7cc-4118-a6dc-1fe5aa06f30c)
+# Elaborated design
+![ ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/2bdcc3b8-4632-41b7-8f19-da04abb78dea)
+# Multiplexer
+![Multiplexer ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/2d0793b5-7308-4030-b28a-7996aef35bb7)
+# Elaborated design
+![ ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/24e2c35e-c9ac-48da-836f-e5b56f379f0e)
+# Demultiplexer
+![Demultiplexer ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/4f5c1c36-d62c-4faf-95eb-4ba318de799d)
+# Elaborated design
+![ ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/fc9133dc-bf07-4d5f-9b17-9b0c255193d3)
+# MAGNITUDE COMPARATOR
+![ MAGNITUDE COMPARATOR ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/9676197e-d8fb-411e-838d-efe52e837270)
+# Elaborated design
+![ ](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/d8a5faff-687d-403e-9bd4-2a9ed21309d6)
 
 # RESULT
+Hence ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR is stimulated and synthesised using Vivado 2023.2.
 
 
