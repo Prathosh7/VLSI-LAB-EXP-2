@@ -1,10 +1,10 @@
 SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
 AIM: 
- To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
+ To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Vivado 2023.2.
 
 APPARATUS REQUIRED:
-Vivado
+Vivado 2023.2
 Spartan6 FPGA
 
 **LOGIC DIAGRAM**
@@ -36,6 +36,7 @@ MAGNITUDE COMPARATOR
 
   
 PROCEDURE:
+
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
 STEP:3  Select new source in the New Project and select Verilog Module as the Source type.                       
@@ -127,6 +128,7 @@ end
 endmodule
 ```
 # OUTPUT WAVEFORM
+
 # Encoder
 ![Encoder](https://github.com/Prathosh7/VLSI-LAB-EXP-2/assets/168956572/77f8e9f2-32f3-4f9b-ba74-1c9196739379)
 # Elaborated Design
